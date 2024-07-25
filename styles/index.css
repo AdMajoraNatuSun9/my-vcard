@@ -15,7 +15,7 @@ header img {
   border: 5px solid #fff;
 }
 aside {
-  border-top: 0px solid #26A69A;
+  border-top: 0px solid #32f3e0;
   border-bottom: 0px solid #00695C;
   border-radius: 50%;
   margin: 0 auto;
@@ -29,7 +29,7 @@ aside {
   transition: all ease 0.3s;
 }
 aside:hover {
-  border-top: 4px solid #26A69A;
+  border-top: 4px solid #3adaca;
   border-bottom: 4px solid #00695C;
   border-radius: 5px;
   height: 480px;
